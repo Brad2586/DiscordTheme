@@ -11,7 +11,7 @@
 @import url('https://l-ratio.github.io/OperaGXTheme/release/main.css');
 
 :root {
-  --background: url('https://github.com/Brad2586/Recitation/blob/main/tohrubackground.png?raw=true');
+  --background: url('https://raw.githubusercontent.com/Brad2586/DiscordTheme/refs/heads/main/tohrubackground.png');
   --background-behind-appmount: 8,5,14,1;
   --background-accent-color-1: 0,0,0,0.75;
   --accent-color-1: 255,157,86;
@@ -61,5 +61,3 @@
 }
 
 /* Any custom CSS below here */
-
-
